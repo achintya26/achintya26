@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achintya26
 - 👀 I’m interested in connecting finance and data with tech dots
 - 🌱 I’m currently learning to start coding :)
-- 💞️ I’m looking to collaborate on fin-tech projects mostly concentarted towards Investments 
+- 💞️ I’m looking to collaborate on fin-tech projects mostly concentarted towards Financial markets 
 - 📫 How to reach me 
 
 <!---
